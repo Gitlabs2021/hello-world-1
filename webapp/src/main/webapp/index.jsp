@@ -6,7 +6,7 @@
         <title>Hello Deployed !</title>
     </head>
     <body>
-        <h1>HAPPy WEEEKEND!!!!!!!!</h1>
+        <h1>HAPPY WEEEKEND!!!!!!!!</h1>
         
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
